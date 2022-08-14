@@ -1,6 +1,6 @@
 # Site settings
-title: Common Lisp
-domain: "lisp-lang.org"
+title: Elijah Language Overview (Yes, another one)
+#domain: "lisp-lang.org"
 
 # Build settings
 markdown: kramdown
